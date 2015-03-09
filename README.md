@@ -1,6 +1,6 @@
 # Roomba robot driver for ROS.
 
-アイロボットルンバ研究開発キットのルンバをROS（indog）で動かすためのドライバ。
+アイロボットルンバ研究開発キットのルンバをROS（indigo）で動かすためのドライバ。
 
 ## roomba
 - アイロボットルンバ　研究開発キット
