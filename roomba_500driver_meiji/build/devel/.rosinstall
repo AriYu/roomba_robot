@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/yuta/catkin_ws/src/roomba_robot/roomba_500driver_meiji/build/devel/setup.sh
